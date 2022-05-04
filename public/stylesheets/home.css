@@ -17,6 +17,7 @@ body{
     margin-left: 1rem;
     border-bottom: .25rem solid transparent;
 }
+
 .nav-link:hover{
     border-bottom-color: rgba(255,255,255,.5);
 }
